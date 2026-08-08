@@ -26,6 +26,7 @@ I'm a Computer Engineering student with a strong focus on backend development. I
 - **Databases:** PostgreSQL, MySQL
 
 ---
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoeinH-0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Moein's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoeinH-0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" alt="Moein's GitHub Stats" />
 </p>
